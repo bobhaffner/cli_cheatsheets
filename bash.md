@@ -1,5 +1,3 @@
-- Remote access setup - Setting up a windows SSH client.  Note: this might be something that Republic Tech Support would prefer to do?
-
 ### Secure Shell (SSH) - connecting to remote instances
 `ssh pi@mypi.local` 
 
